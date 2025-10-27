@@ -24,19 +24,19 @@ Tuoreen tekoälyasetuksen myötä EU:sta tulee ensimmäinen merkittävä markkin
 
 Suomi on digitalisaation kärkimaa Euroopassa, ja täällä toimii myös tekoälyalan johtavia yrityksiä. Asetuksen vaikutukset ovat näin ollen meillä luultavasti suhteessa suurempia kuin monissa muissa EU-maissa. Jotta säädöksestä ei aiheutuisi kohtuutonta taakkaa, on valtionhallinnon ja sidosryhmien panostettava yhdessä sen toimeenpanon sujuvuuteen.
 
-Tutustu Teknologiateollisuus ry:n tekoälysäädöksestä tuottamaan tukimateriaaliintäällä.
+Tutustu Teknologiateollisuus ry:n tekoälysäädöksestä tuottamaan tukimateriaaliin [täällä](https://teknologiateollisuus.fi/jasenille/tietopankki/digitalisaatio-ja-tekoaly/tekoalyasetus/).
 
 ## Teknologiateollisuus ry investoi tekoälysiirtymään: rahoitushaut avoinna
 
 Teknologiateollisuus ry on päättänyt investoida kymmenen miljoonaa euroa tekoälysiirtymän vauhdittamiseen Suomessa. Tavoitteena on lisätä tekoälyn käyttöönottoa ja kehittämistä suomalaisissa teknologiayrityksessä, vahvistaa soveltavaa tutkimusta sekä houkutella tekoälyosaajia Suomeen. Lisäksi Teknologiateollisuuden 100-vuotissäätiö lahjoittaa yli kolme miljoonaa euroa Aalto-yliopiston tekoälytutkimuksen keskuksen perustamiseen.
 
-Osana investointiamme käynnistettiin yritysvetoinen AI Finland -verkosto. Se tarjoaa foorumin yritysten ja julkisten toimijoiden yhteistyölle ja osaamisen kehittämiselle. Lue lisää ja tutustu tarjolla olevaan rahoitukseenTeknologiateollisuuden tekoälyhankkeennettisivulta.
+Osana investointiamme käynnistettiin yritysvetoinen AI Finland -verkosto. Se tarjoaa foorumin yritysten ja julkisten toimijoiden yhteistyölle ja osaamisen kehittämiselle. Lue lisää ja tutustu tarjolla olevaan rahoitukseen [Teknologiateollisuuden tekoälyhankkeen](https://teknologiateollisuus.fi/ajankohtaista/hankkeet/tekoaly/) nettisivulta.
 
 ## Teknologiateollisuuden avainviestit tekoälyn kehityksen ja käyttöönoton tukemiseen:
 
-- Kohdennetaan julkista T&K-rahoitustatekoälyteknologioiden kehittämis- ja innovaatiotoimintaan teollisuudessa, ICT-sektorilla ja muiden toimialojen yrityksissä.
+- Kohdennetaan julkista T&K-rahoitusta tekoälyteknologioiden kehittämis- ja innovaatiotoimintaan teollisuudessa, ICT-sektorilla ja muiden toimialojen yrityksissä.
 - Vahvistetaan tekoälyyn liittyvää syväosaamistapanostamalla alan koulutukseen ja tutkimukseen.
-- Investoidaan yritysvetoiseen AI Finland -verkostoonyhdessä teollisuuden kanssa ja kiihdytetään näin tekoälyjärjestelmien käyttöönottoa ja datatalouden liiketoimintamallien ja innovaatioiden kehitystä.
+- Investoidaan yritysvetoiseen AI Finland -verkostoon yhdessä teollisuuden kanssa ja kiihdytetään näin tekoälyjärjestelmien käyttöönottoa ja datatalouden liiketoimintamallien ja innovaatioiden kehitystä.
 - Puretaan lainsäädännön esteet, jotka estävät tai hidastavat tekoälyn käyttöä viranomaisten automaattisessa päätöksenteossa ja julkisissa palveluissa, mukaan lukien sosiaali- ja terveydenhuollossa.
 - Tuetaan julkishallinnon organisaatioita tekoälyn käyttöönotossalaatimalla tekoälyn käyttöönottoa edistäviä periaatteita ja käytännesääntöjä
-- Perustetaan Suomeen tekoälysääntelyn hiekkalaatikkoauttamaan yrityksiä EU:n tekoälyasetuksen vaatimusten täyttämisessä.
+- Perustetaan Suomeen tekoälysääntelyn hiekkalaatikko auttamaan yrityksiä EU:n tekoälyasetuksen vaatimusten täyttämisessä.

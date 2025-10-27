@@ -20,7 +20,7 @@ Resursseja on tärkeää suunnata digitalisaation mahdollistavan toimintaympäri
 
 ## Digitalisaatiota johdettava poikkihallinnollisesti
 
-Teknologiateollisuus on ollut jo usean vuoden mukana rakentamassa suomalaista tieto- ja teknologiapolitiikan johtamisen mallia niin kansallisen digikompassin valmistelussa kuin tarjoamallanäkemyksiä poikkihallinnollisen johtamismallin rakenteisiin.
+Teknologiateollisuus on ollut jo usean vuoden mukana rakentamassa suomalaista tieto- ja teknologiapolitiikan johtamisen mallia niin kansallisen digikompassin valmistelussa kuin tarjoamalla [näkemyksiä poikkihallinnollisen johtamismallin rakenteisiin](https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TUVJ-5-22.pdf).
 
 Digihankkeet ja niiden rahoitus ovat tärkeä osa-alue julkisen hallinnon digitalisaation kehityksessä. Valtionhallinnon digihankkeiden nykyinen rahoitus on tarkoitus koota poikkihallinnollisen koordinaation alaiseksi. Käytännössä tämä tarkoittaa, että eri hallinnonalojen digitalisaatiobudjeteista muodostetaan hallituskauden aikana tarkoituksenmukaisen kokoinen yhteinen kehitysbudjetti.
 
