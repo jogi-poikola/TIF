@@ -7,7 +7,7 @@ description: Extract bullet-pointed positions from TIF markdown source files and
 
 ## Overview
 
-This skill extracts individual positions from TIF source markdown files and creates structured position files along with a paper file containing Obsidian transclusions. Each bullet-pointed position in the source file becomes a standalone position file in the `positions-drafts/` folder, and a corresponding paper file is created in `papers/` that references these positions using Obsidian transclusion syntax.
+This skill extracts individual positions from TIF source markdown files and creates structured position files along with a paper file containing Obsidian transclusions. Each bullet-pointed position in the source file becomes a standalone position file in the `positions-drafts/` folder, and a corresponding paper file is created in `papers/` that references these positions using Obsidian transclusion syntax wrapped in callouts (`[!todo]+`). The system creates bidirectional links: position files include a heading that links back to the paper, and paper transclusions use heading anchors to link to specific sections within position files.
 
 ## When to Use This Skill
 
@@ -81,20 +81,35 @@ related:
   - "[[paper-web-filename]]"
 ---
 
+## [[paper-web-filename]]
+
 [Position text with links preserved]
 ```
 
-Filename format: `<title>.md` (e.g., `Vauhditetaan teollisuuden digitalisaatiota.md`)
+**Key features:**
+- Filename format: `<title>.md` (e.g., `Vauhditetaan teollisuuden digitalisaatiota.md`)
+- Includes heading that links back to the paper file
+- Heading serves as an anchor for transclusions from the paper
 
 ### Paper File
 
-The paper file in `papers/` is a copy of the source file with positions replaced by Obsidian transclusions:
+The paper file in `papers/` is a copy of the source file with positions replaced by Obsidian transclusions wrapped in callouts:
 
 ```markdown
-- ![[Vauhditetaan teollisuuden digitalisaatiota]]
-- ![[Tuetaan tekoälyn kehitystä ja käyttöönottoa]]
-- ![[Kehitetään julkisia ICT-hankintoja]]
+> [!todo]+ Vauhditetaan teollisuuden digitalisaatiota
+> ![[Vauhditetaan teollisuuden digitalisaatiota#paper-web-digitalisaatio-ja-datatalous]]
+
+> [!todo]+ Tuetaan tekoälyn kehitystä ja käyttöönottoa
+> ![[Tuetaan tekoälyn kehitystä ja käyttöönottoa#paper-web-digitalisaatio-ja-datatalous]]
+
+> [!todo]+ Kehitetään julkisia ICT-hankintoja
+> ![[Kehitetään julkisia ICT-hankintoja#paper-web-digitalisaatio-ja-datatalous]]
 ```
+
+**Key features:**
+- Transclusions include heading anchors (`#paper-name`)
+- Anchors link directly to the specific heading in each position file
+- Creates bidirectional linking between paper and positions
 
 ## Example Usage
 
@@ -131,8 +146,12 @@ python scripts/extract_positions.py <source-file-path>
 - Extracts source URL from YAML frontmatter
 - Generates descriptive titles (max 7 words) from first sentence
 - Creates filenames using titles with spaces (e.g., `Kehitetään julkisia ICT-hankintoja.md`)
-- Generates position files with proper YAML frontmatter including link to paper in `related` field
-- Creates paper file with Obsidian transclusion syntax (`![[filename]]`)
+- Generates position files with:
+  - Proper YAML frontmatter including link to paper in `related` field
+  - Heading that links back to the paper file (`## [[paper-name]]`)
+- Creates paper file with:
+  - Obsidian transclusion syntax wrapped in callouts (`> [!todo]+ title`)
+  - Heading anchors for direct linking (`> ![[filename#paper-name]]`)
 
 **Requirements:**
 - Python 3.6+

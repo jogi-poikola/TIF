@@ -106,7 +106,7 @@ def create_position_file(
     # Remove .md extension from paper filename for Obsidian link
     paper_name = paper_filename[:-3] if paper_filename.endswith('.md') else paper_filename
 
-    # Create YAML frontmatter
+    # Create YAML frontmatter with linked heading
     frontmatter = f"""---
 type: position
 title: "{title}"
@@ -115,6 +115,8 @@ up:
 related:
   - "[[{paper_name}]]"
 ---
+
+## [[{paper_name}]]
 
 {position_text}
 """
@@ -134,6 +136,9 @@ def create_paper_file(
     """
     Create a paper file with Obsidian transclusions replacing position text.
     """
+    # Extract paper name from output path (without .md extension)
+    paper_name = output_path.stem
+
     lines = source_content.split('\n')
     output_lines = []
     position_index = 0
@@ -142,11 +147,14 @@ def create_paper_file(
     for line in lines:
         # Check if line starts a new position (bullet point)
         if line.strip().startswith('- ') and position_index < len(position_filenames):
-            # Replace with transclusion
+            # Replace with transclusion in callout format with heading anchor
             position_file = position_filenames[position_index]
             # Remove .md extension for Obsidian link
             position_name = position_file[:-3]
-            output_lines.append(f"- ![[{position_name}]]")
+            # Use the filename as the title (it already is the title)
+            position_title = position_name
+            output_lines.append(f"> [!todo]+ {position_title}")
+            output_lines.append(f"> ![[{position_name}#{paper_name}]]")
             position_index += 1
             skip_until_empty = True
         elif skip_until_empty:
