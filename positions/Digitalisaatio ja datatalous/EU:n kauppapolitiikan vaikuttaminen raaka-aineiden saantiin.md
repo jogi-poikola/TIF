@@ -9,3 +9,11 @@ related:
 ## [[2024-11-01-kriittiset-materiaalit-web]]
 
 EU:n kauppapolitiikkaan ja -sopimuksiin vaikuttamista tuontiraaka-aineiden saannin varmistamiseksi
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2024-11-01-kriittiset-materiaalit-web]]
+
+> EU:n kauppapolitiikkaan ja -sopimuksiin vaikuttamista tuontiraaka-aineiden saannin varmistamiseksi...
