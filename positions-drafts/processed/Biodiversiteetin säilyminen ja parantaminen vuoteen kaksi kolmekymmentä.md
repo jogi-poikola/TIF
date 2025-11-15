@@ -1,0 +1,11 @@
+---
+type: position
+title: "Biodiversiteetin säilyminen ja parantaminen vuoteen kaksi kolmekymmentä"
+up:
+related:
+  - "[[2025-10-20-teknologiateollisuuden-linjaukset-web]]"
+---
+
+## [[2025-10-20-teknologiateollisuuden-linjaukset-web]]
+
+BiodiversiteettilinjauksetTeknologiateollisuuden biodiversiteettilinjausten tavoitteena on edistää luonnon monimuotoisuuden säilymistä ja parantamista vuoteen 2030 mennessä. Linjaukset korostavat yritysten vastuullista toimintaa ja sen hyötyjä liiketoiminnalle. Lue lisää biodiversiteettilinjauksista.

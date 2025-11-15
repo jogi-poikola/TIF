@@ -1,0 +1,27 @@
+---
+type: position
+title: "Työ on aloitettava yhteisbudjetista rahoitettavien kehityshankkeiden rahoituskriteerien"
+up: "[[Talous- ja veropolitiikka]]"
+related:
+  - "[[2025-08-15-budjettiriihi-2025-web]]"
+---
+
+## [[2025-08-15-budjettiriihi-2025-web]]
+
+Työ on aloitettava yhteisbudjetista rahoitettavien kehityshankkeiden rahoituskriteerien laadinnalla sekä hallinnonalojen jakamien digikehitystarpeiden tunnistamisella. Yhteiskehitysbudjettia on pilotoitava kuluvalla hallituskaudella vähintään yhden merkittävän poikkihallinnollisen kehityshankkeen rahoittamiseen ja se on otettava täysimääräisesti käyttöön seuraavalla kaudella. Resurssikoordinaation kehittäminen on seuraava luonteva askel tieto- ja teknologiapolitiikan poikkihallinnollisen johtamisen vahvistamisessa.
+
+---
+
+## Kontekstit ja lähteet
+### [[2025-08-15-budjettiriihi-2025-web]]
+
+> Työ on aloitettava yhteisbudjetista rahoitettavien kehityshankkeiden rahoituskriteerien laadinnalla sekä hallinnonalojen jakamien digikehitystarpeiden tunnistamisella. Yhteiskehitysbudjettia on piloto...
+
+### [[2025-08-15-budjettiriihi-2025-web]]
+
+> Työ on aloitettava yhteisbudjetista rahoitettavien kehityshankkeiden rahoituskriteerien laadinnalla sekä hallinnonalojen jakamien digikehitystarpeiden tunnistamisella. Yhteiskehitysbudjettia on piloto...
+
+
+### [[2025-08-15-budjettiriihi-2025-web]]
+
+> Työ on aloitettava yhteisbudjetista rahoitettavien kehityshankkeiden rahoituskriteerien laadinnalla sekä hallinnonalojen jakamien digikehitystarpeiden tunnistamisella. Yhteiskehitysbudjettia on piloto...

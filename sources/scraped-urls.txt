@@ -1,0 +1,89 @@
+# TIF Scraped Sources Registry
+#
+# This file tracks all URLs that have been scraped from the TIF website.
+# Use this to re-scrape and detect changes in source content.
+#
+# Format: YYYY-MM-DD | URL | Output File
+# Lines starting with # are comments
+#
+# Example:
+# 2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/datakeskukset/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-11-04-datakeskukset-web.md
+
+2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/datakeskukset/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-11-04-datakeskukset-web.md
+2025-10-07 | https://teknologiateollisuus.fi/tieto-ja-teknologiapoliittiset-linjaukset/ | sources/TIF web/2025-10-07-tieto-ja-teknologiapoliittiset-linjaukset-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/ | sources/TIF web/tavoitteemme/2025-03-19-talous-ja-veropolitiikka-web.md
+2025-06-16 | https://teknologiateollisuus.fi/tavoitteemme/tyoelama/ | sources/TIF web/tavoitteemme/2025-06-16-tyoelama-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/innovaatiot/ | sources/TIF web/tavoitteemme/2025-03-19-innovaatiot-web.md
+2025-06-24 | https://teknologiateollisuus.fi/tavoitteemme/investoinnit/ | sources/TIF web/tavoitteemme/2025-06-24-investoinnit-web.md
+2025-06-10 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/ | sources/TIF web/tavoitteemme/2025-06-10-ymparisto-ja-kiertotalous-web.md
+2025-06-10 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/ | sources/TIF web/tavoitteemme/2025-06-10-ilmasto-ja-energia-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/yritysvastuu/ | sources/TIF web/tavoitteemme/2025-03-19-yritysvastuu-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/ | sources/TIF web/tavoitteemme/2025-03-19-osaava-tyovoima-web.md
+2025-10-27 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/ | sources/TIF web/tavoitteemme/2025-10-27-digitalisaatio-ja-datatalous-web.md
+2025-08-15 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/budjettiriihi-2025/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-08-15-budjettiriihi-2025-web.md
+2024-09-02 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/edistetaan-julkisen-sektorin-digitalisaatiota/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2024-09-02-edistetaan-julkisen-sektorin-digitalisaatiota-web.md
+2025-06-17 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/vauhditetaan-teollisuuden-digitalisaatiota/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-06-17-vauhditetaan-teollisuuden-digitalisaatiota-web.md
+2024-08-26 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/julkiset-ict-hankinnat/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2024-08-26-julkiset-ict-hankinnat-web.md
+2025-06-17 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/tekoalyn-hyodyntaminen/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-06-17-tekoalyn-hyodyntaminen-web.md
+2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/datakeskukset/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-11-04-datakeskukset-web.md
+2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/datakeskukset/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-11-04-datakeskukset-web.md
+2025-10-07 | https://teknologiateollisuus.fi/tieto-ja-teknologiapoliittiset-linjaukset/ | sources/TIF web/2025-10-07-tieto-ja-teknologiapoliittiset-linjaukset-web.md
+2025-10-07 | https://teknologiateollisuus.fi/tieto-ja-teknologiapoliittiset-linjaukset/ | sources/TIF web/2025-10-07-tieto-ja-teknologiapoliittiset-linjaukset-web.md
+2025-10-07 | https://teknologiateollisuus.fi/tieto-ja-teknologiapoliittiset-linjaukset/ | sources/TIF web/2025-10-07-tieto-ja-teknologiapoliittiset-linjaukset-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/ | sources/TIF web/tavoitteemme/2025-03-19-talous-ja-veropolitiikka-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/ | sources/TIF web/tavoitteemme/2025-03-19-talous-ja-veropolitiikka-web.md
+2025-10-07 | https://teknologiateollisuus.fi/tieto-ja-teknologiapoliittiset-linjaukset/ | sources/TIF web/2025-10-07-tieto-ja-teknologiapoliittiset-linjaukset-web.md
+2024-08-27 | https://teknologiateollisuus.fi/tavoitteemme/ | sources/TIF web/2024-08-27-tavoitteemme-web.md
+2024-09-02 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/edistetaan-julkisen-sektorin-digitalisaatiota/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2024-09-02-edistetaan-julkisen-sektorin-digitalisaatiota-web.md
+2025-06-10 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/ | sources/TIF web/tavoitteemme/2025-06-10-ilmasto-ja-energia-web.md
+2025-06-17 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/vauhditetaan-teollisuuden-digitalisaatiota/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-06-17-vauhditetaan-teollisuuden-digitalisaatiota-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/ilmasto-ja-energiapolitiikka/ | sources/TIF web/tavoitteemme/ilmasto-ja-energia/2025-09-12-ilmasto-ja-energiapolitiikka-web.md
+2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/datakeskukset/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-11-04-datakeskukset-web.md
+2025-04-04 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/energiatehokkuus/ | sources/TIF web/tavoitteemme/ilmasto-ja-energia/2025-04-04-energiatehokkuus-web.md
+2024-08-26 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/julkiset-ict-hankinnat/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2024-08-26-julkiset-ict-hankinnat-web.md
+2025-06-17 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/tekoalyn-hyodyntaminen/ | sources/TIF web/tavoitteemme/digitalisaatio-ja-datatalous/2025-06-17-tekoalyn-hyodyntaminen-web.md
+2025-10-27 | https://teknologiateollisuus.fi/tavoitteemme/digitalisaatio-ja-datatalous/ | sources/TIF web/tavoitteemme/2025-10-27-digitalisaatio-ja-datatalous-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/ilmastokadenjalki/ | sources/TIF web/tavoitteemme/ilmasto-ja-energia/2025-09-12-ilmastokadenjalki-web.md
+2024-11-29 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/liikenne-ja-logistiikka/ | sources/TIF web/tavoitteemme/ilmasto-ja-energia/2024-11-29-liikenne-ja-logistiikka-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/ilmasto-ja-energia/vetytalous/ | sources/TIF web/tavoitteemme/ilmasto-ja-energia/2025-09-12-vetytalous-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/innovaatiot/ | sources/TIF web/tavoitteemme/2025-03-19-innovaatiot-web.md
+2024-08-26 | https://teknologiateollisuus.fi/tavoitteemme/innovaatiot/innovatiiviset-julkiset-hankinnat/ | sources/TIF web/tavoitteemme/innovaatiot/2024-08-26-innovatiiviset-julkiset-hankinnat-web.md
+2025-02-04 | https://teknologiateollisuus.fi/tavoitteemme/innovaatiot/tutkimus-ja-kehitystoiminta-2/ | sources/TIF web/tavoitteemme/innovaatiot/2025-02-04-tutkimus-ja-kehitystoiminta-2-web.md
+2025-06-24 | https://teknologiateollisuus.fi/tavoitteemme/investoinnit/ | sources/TIF web/tavoitteemme/2025-06-24-investoinnit-web.md
+2024-08-27 | https://teknologiateollisuus.fi/tavoitteemme/innovaatiot/tutkimus-ja-kehitystoiminta/ | sources/TIF web/tavoitteemme/innovaatiot/2024-08-27-tutkimus-ja-kehitystoiminta-web.md
+2024-09-12 | https://teknologiateollisuus.fi/tavoitteemme/investoinnit/investointiymparisto/ | sources/TIF web/tavoitteemme/investoinnit/2024-09-12-investointiymparisto-web.md
+2025-06-24 | https://teknologiateollisuus.fi/tavoitteemme/investoinnit/teollisuuspolitiikka/ | sources/TIF web/tavoitteemme/investoinnit/2025-06-24-teollisuuspolitiikka-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/ | sources/TIF web/tavoitteemme/2025-03-19-osaava-tyovoima-web.md
+2025-10-23 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/ammatillinen-osaaminen/ | sources/TIF web/tavoitteemme/osaava-tyovoima/2025-10-23-ammatillinen-osaaminen-web.md
+2025-11-04 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/korkeakoulutus/ | sources/TIF web/tavoitteemme/osaava-tyovoima/2025-11-04-korkeakoulutus-web.md
+2024-09-02 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/matemaattinen-osaaminen/ | sources/TIF web/tavoitteemme/osaava-tyovoima/2024-09-02-matemaattinen-osaaminen-web.md
+2024-12-18 | https://teknologiateollisuus.fi/tavoitteemme/osaava-tyovoima/osaajatarve/ | sources/TIF web/tavoitteemme/osaava-tyovoima/2024-12-18-osaajatarve-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/ | sources/TIF web/tavoitteemme/2025-03-19-talous-ja-veropolitiikka-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/julkinen-talous-2/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2025-09-12-julkinen-talous-2-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/globaali-veromalli/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2025-09-12-globaali-veromalli-web.md
+2024-08-30 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/julkinen-talous/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2024-08-30-julkinen-talous-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/kestava-verotus/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2025-09-12-kestava-verotus-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/verotuksen-digitalisaatio/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2025-09-12-verotuksen-digitalisaatio-web.md
+2025-09-12 | https://teknologiateollisuus.fi/tavoitteemme/talous-ja-veropolitiikka/tyon-verotus/ | sources/TIF web/tavoitteemme/talous-ja-veropolitiikka/2025-09-12-tyon-verotus-web.md
+2025-06-16 | https://teknologiateollisuus.fi/tavoitteemme/tyoelama/ | sources/TIF web/tavoitteemme/2025-06-16-tyoelama-web.md
+2025-09-30 | https://teknologiateollisuus.fi/tavoitteemme/tyoelama/hyvinvointi-ja-yritysturvallisuus/ | sources/TIF web/tavoitteemme/tyoelama/2025-09-30-hyvinvointi-ja-yritysturvallisuus-web.md
+2025-06-16 | https://teknologiateollisuus.fi/tavoitteemme/tyoelama/tyoelaman-kehittaminen/ | sources/TIF web/tavoitteemme/tyoelama/2025-06-16-tyoelaman-kehittaminen-web.md
+2025-06-16 | https://teknologiateollisuus.fi/tavoitteemme/tyoelama/tyoelaman-saantely/ | sources/TIF web/tavoitteemme/tyoelama/2025-06-16-tyoelaman-saantely-web.md
+2025-03-19 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/ | sources/TIF web/tavoitteemme/2025-03-19-viestimme-paattajille-web.md
+2025-08-15 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/budjettiriihi-2025/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-08-15-budjettiriihi-2025-web.md
+2025-06-25 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/eu2024-2029/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-06-25-eu2024-2029-web.md
+2025-06-25 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/hallituskausi-2023-2027/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-06-25-hallituskausi-2023-2027-web.md
+2025-06-25 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/kasvutoimet-ja-puolivaliriihi-2025/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-06-25-kasvutoimet-ja-puolivaliriihi-2025-web.md
+2025-06-25 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/kunta-ja-aluevaalit/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-06-25-kunta-ja-aluevaalit-web.md
+2025-10-20 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/teknologiateollisuuden-linjaukset/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-10-20-teknologiateollisuuden-linjaukset-web.md
+2025-06-10 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/ | sources/TIF web/tavoitteemme/2025-06-10-ymparisto-ja-kiertotalous-web.md
+2025-06-10 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/ | sources/TIF web/tavoitteemme/2025-06-10-ymparisto-ja-kiertotalous-web.md
+2024-11-01 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/kriittiset-materiaalit/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2024-11-01-kriittiset-materiaalit-web.md
+2025-05-20 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/kiertotalous/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2025-05-20-kiertotalous-web.md
+2025-01-16 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/luonnon-monimuotoisuus/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2025-01-16-luonnon-monimuotoisuus-web.md
+2025-01-03 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/tuotepolitiikka/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2025-01-03-tuotepolitiikka-web.md
+2025-10-20 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/teknologiateollisuuden-linjaukset/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-10-20-teknologiateollisuuden-linjaukset-web.md
+2024-11-01 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/kriittiset-materiaalit/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2024-11-01-kriittiset-materiaalit-web.md
+2025-01-16 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/luonnon-monimuotoisuus/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2025-01-16-luonnon-monimuotoisuus-web.md
+2025-05-20 | https://teknologiateollisuus.fi/tavoitteemme/ymparisto-ja-kiertotalous/kiertotalous/ | sources/TIF web/tavoitteemme/ymparisto-ja-kiertotalous/2025-05-20-kiertotalous-web.md
+2025-08-15 | https://teknologiateollisuus.fi/tavoitteemme/viestimme-paattajille/budjettiriihi-2025/ | sources/TIF web/tavoitteemme/viestimme-paattajille/2025-08-15-budjettiriihi-2025-web.md

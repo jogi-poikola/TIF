@@ -1,0 +1,11 @@
+---
+type: position
+title: "Kriittisten raaka-aineiden asetuksen toimeenpano"
+up:
+related:
+  - "[[2024-11-01-kriittiset-materiaalit-web]]"
+---
+
+## [[2024-11-01-kriittiset-materiaalit-web]]
+
+Vahvaa CRMA:n kansallista toimeenpanoa

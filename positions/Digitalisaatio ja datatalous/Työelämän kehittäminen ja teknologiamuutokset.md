@@ -1,0 +1,19 @@
+---
+type: position
+title: "Työelämän kehittäminen ja teknologiamuutokset"
+up: "[[Digitalisaatio ja datatalous]]"
+related:
+  - "[[2025-10-20-teknologiateollisuuden-linjaukset-web]]"
+---
+
+## [[2025-10-20-teknologiateollisuuden-linjaukset-web]]
+
+Työelämän kehittämisen linjauksetTeknologiateollisuus kannustaa jäsenyrityksiään toimimaan työelämän kehittämisen edelläkävijöinä, valitsemaan kestäviä teknologioita ja huomioimaan niiden vaikutukset ihmisiin ja yhteiskuntaan sekä rakentamaan moninaisia, osaavia ja hyvinvoivia työyhteisöjä. Lue lisää työelämän kehittämisen linjauksista.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-10-20-teknologiateollisuuden-linjaukset-web]]
+
+> Työelämän kehittämisen linjauksetTeknologiateollisuus kannustaa jäsenyrityksiään toimimaan työelämän kehittämisen edelläkävijöinä, valitsemaan kestäviä teknologioita ja huomioimaan niiden vaikutukset ...

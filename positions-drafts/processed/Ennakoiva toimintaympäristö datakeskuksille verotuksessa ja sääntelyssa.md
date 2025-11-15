@@ -1,0 +1,11 @@
+---
+type: position
+title: "Ennakoiva toimintaympäristö datakeskuksille verotuksessa ja sääntelyssa"
+up:
+related:
+  - "[[2025-11-04-datakeskukset-web]]"
+---
+
+## [[2025-11-04-datakeskukset-web]]
+
+Varmistetaan, että Suomessa on ennakoitava ja investointeja tukeva toimintaympäristö mm.verotuksen ja sääntelyn osalta.

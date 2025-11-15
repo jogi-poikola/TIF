@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - file.ctime
+      - file.links
+    columnSize:
+      file.ctime: 162
+  - type: cards
+    name: Cards
