@@ -9,3 +9,11 @@ related:
 ## [[2025-05-20-kiertotalous-web]]
 
 Osaamisen vahvistuminen: Kiertotalousosaamisessa on puutteita sekä yrityksissä että julkisella sektorilla. Osaamisvajetta on yrityksissä mm. liiketoimintamalleihin, tuotesuunnitteluun ja valmistukseen, kierrätysmateriaalien käyttöön, materiaalivirtojen ja datan analysointiin sekä markkinointiin liittyvissä tehtävissä.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-05-20-kiertotalous-web]]
+
+> Osaamisen vahvistuminen: Kiertotalousosaamisessa on puutteita sekä yrityksissä että julkisella sektorilla. Osaamisvajetta on yrityksissä mm. liiketoimintamalleihin, tuotesuunnitteluun ja valmistukseen...

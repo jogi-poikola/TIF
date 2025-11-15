@@ -13,6 +13,10 @@ Kiertotaloudelle suotuisanmarkkinoiden ja kilpailukykyisen toimintaympäristön 
 ---
 
 ## Kontekstit ja lähteet
+### [[2025-05-20-kiertotalous-web]]
+
+> Kiertotaloudelle suotuisanmarkkinoiden ja kilpailukykyisen toimintaympäristön kehittyminen: Kierrätysmateriaaleja ja jätteitä koskevaa lainsäädäntöä selkiytettävä ja yhdenmukaistettava vähintään EU-ta...
+
 
 ### [[2025-05-20-kiertotalous-web]]
 

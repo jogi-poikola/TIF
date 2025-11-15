@@ -9,3 +9,11 @@ related:
 ## [[2025-05-20-kiertotalous-web]]
 
 Kiertotalousajattelun vahvistuminen: Menestyjäyritykset investoivat muutokseen jo huomattavasti aiemmin kuin valtaosa markkinoiden toimijoista.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-05-20-kiertotalous-web]]
+
+> Kiertotalousajattelun vahvistuminen: Menestyjäyritykset investoivat muutokseen jo huomattavasti aiemmin kuin valtaosa markkinoiden toimijoista....

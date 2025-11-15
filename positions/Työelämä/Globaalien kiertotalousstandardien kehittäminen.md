@@ -9,3 +9,11 @@ related:
 ## [[2025-05-20-kiertotalous-web]]
 
 Edistää globaalien kiertotalousstandardien laadintaa ja osallistaa jäsenyrityksiä standardointityöhön.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-05-20-kiertotalous-web]]
+
+> Edistää globaalien kiertotalousstandardien laadintaa ja osallistaa jäsenyrityksiä standardointityöhön....

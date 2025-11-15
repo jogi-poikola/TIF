@@ -9,3 +9,11 @@ related:
 ## [[2025-05-20-kiertotalous-web]]
 
 Kerää ja tuottaa tietoa kiertotalouden edistymisestä, haasteista ja mahdollisuuksista.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-05-20-kiertotalous-web]]
+
+> Kerää ja tuottaa tietoa kiertotalouden edistymisestä, haasteista ja mahdollisuuksista....

@@ -9,3 +9,11 @@ related:
 ## [[2025-05-20-kiertotalous-web]]
 
 Strategiset yhteistyömallit ja kiertotalousekosysteemit: Onnistuakseen muutoksessa yritysten on sisällytettävä kiertotalousajattelu kaikkeen toimintaan sekä sisäisesti että toimitusketjussa.
+
+---
+
+## Kontekstit ja lähteet
+
+### [[2025-05-20-kiertotalous-web]]
+
+> Strategiset yhteistyömallit ja kiertotalousekosysteemit: Onnistuakseen muutoksessa yritysten on sisällytettävä kiertotalousajattelu kaikkeen toimintaan sekä sisäisesti että toimitusketjussa....
